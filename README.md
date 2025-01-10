@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist | Tea Enthusiast
 -------------------------------
 
-This GitHub profile serves as a showcase for my personal projects, collaborations, and contributions to open-source communities. I have been coding for over 5 years and have a keen interest in JavaScript, Python, and React. I have two undergraduate degrees in Biology and Psychology and I'm currently working on my masters/PhD in Data Science.
+This GitHub profile serves as a showcase for my personal projects, collaborations, and contributions to open-source communities. I have been coding for over 5 years and have a keen interest in JavaScript, Python, and React. I have two undergraduate degrees in Biology and Psychology and I'm currently working on my masters in Applied Biomedical Engineering ( and maybe Data Science - if i pass some more prerequisites)
 
 *   🌍  I'm based in Washington DC
 *   ✉️  You can contact me at [lxmulcahy@gmail.com](mailto:lxmulcahy@gmail.com)
